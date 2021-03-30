@@ -1,0 +1,111 @@
+    1  git init
+    2  git clone
+    3  git clone 'https://github.com/syedthasleem/Gist556.git'
+    4  ls
+    5  git clone 'https://github.com/syedthasleem/Gist556.git'
+    6  git add.
+    7  cd Gist556
+    8  ls
+    9  git commit -m 'today files and data'
+   10  git status -s
+   11  git add .
+   12  git status -s
+   13  git push origin 
+   14  git status -s
+   15  git push origin main
+   16  git commit -m 'today files and data'
+   17  git push origin main
+   18  git init
+   19  git clone 'https://github.com/bhavanapoluru/bana_542.git'
+   20  git clone 'https://github.com/bhavanapoluru/bana_542.git'
+   21  git commit -m
+   22  git add .
+   23  git commit -m 'today files'
+   24  git add .
+   25  git status -s
+   26  ls
+   27  cd bana_542
+   28  ls
+   29  ls
+   30  git clone 'https://github.com/bhavanapoluru/bana_542.git'
+   31  git commit -m 'today files'
+   32  git add .
+   33  git status -s
+   34  git push origin main
+   35  pwd
+   36  ls
+   37  Touch demo.txt
+   38  mkdir GIST
+   39  cd GIST
+   40  cd ..
+   41  cd e:
+   42  cd d:
+   43  pwd
+   44  cd C:/Users/dell/Desktop/T.V.S.Meghana(172U1A0456)
+   45  cd Users/dell/Desktop/T.V.S.Meghana(172U1A0456)
+   46  echo "Hello"
+   47  echo 1..100
+   48  echo "1..100"
+   49  echo {1..100}
+   50  Touch file {1..100}.txt
+   51  touch python{20..50}.py
+   52  touvh clanguage{50..70}.cpp
+   53  touch clanguage{50..70}.cpp
+   54  touch file{1..100}.txt
+   55  touch python{20..50}.py
+   56  touch clanguage{50..70}.cpp
+   57  ls
+   58  cd
+   59  cd ..
+   60  cd
+   61  cd..
+   62  cd ..
+   63  cd C:/Users/dell/Desktop/T.V.S.Meghana(172U1A0456)
+   64  cd C:/Users/dell/Desktop/T.V.S.Meghana(172U1A0456)
+   65  cd C:/Users/dell/Desktop/T.V.S.Meghana(172U1A0456)
+   66  cd ..
+   67  cd ..
+   68  cd ..
+   69  cd C:/Users/dell/Desktop/T.V.S.Meghana(172U1A0456)
+   70  psd
+   71  ls
+   72  cd
+   73  pwd
+   74  ls
+   75  rmdir Gist
+   76  rm demo.txt
+   77  rm file{1..10}.txt
+   78  rm file{50..100}.txt
+   79  ls
+   80  rm clanguage{20..50}.cpp
+   81  ls
+   82  rm.*txt
+   83  rm .*txt
+   84  ls
+   85  rm *.txt
+   86  rm *.py
+   87  rm *.cpp
+   88  nano myfile.txt
+   89  cat myfile.txt
+   90  nano myfile.txt
+   91  nano myfile.txt
+   92  cat myfile.txt
+   93  echo "Hello" >>myfile2.txt 
+   94  cat myfile2.txt
+   95  echo {1..1000} >> myfile.txt
+   96  cat myfile.txt
+   97  cat myfile3.txt
+   98  echo "hello" >> myfile2.txt
+   99  cat myfile2.txt
+  100  echo{1..10} >> myfile.txt
+  101  echo {1..10} >> myfile.txt
+  102  cat myfile.txt
+  103  mv myfile3.txt myfile2.txt
+  104  cat myfile2.txt
+  105  ls
+  106  echo "me" >> myfile2.txt
+  107  cat myfile2.txt
+  108  echo {1..10} >> myfile3.txt
+  109  cat myfile3.txt
+  110  history
+  111  history >> history.txt
